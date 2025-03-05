@@ -8,7 +8,7 @@ Git — это распределённая система контроля ве
 Чтобы установить Git на Linux, выполните следующие команды в терминале:
 
 **Для Debian/Ubuntu:**
-```bash
+
 sudo apt update
 sudo apt install git
 
