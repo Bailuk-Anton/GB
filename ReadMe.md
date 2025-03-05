@@ -18,6 +18,6 @@ sudo apt install git
 
 **Как за пушить коммит?**
 Делаем изменения далее:
-git att *
-git cammat -t ''
-git push origin main
+git add *
+git commit -m 'Your comment'
+git push origin Your branch
